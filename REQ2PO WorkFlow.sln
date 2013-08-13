@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "REQ2PO WorkFlow", "REQ2PO WorkFlow\REQ2PO WorkFlow.vbproj", "{563E8E3A-32E3-4C71-AC95-02099734AC90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{563E8E3A-32E3-4C71-AC95-02099734AC90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{563E8E3A-32E3-4C71-AC95-02099734AC90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{563E8E3A-32E3-4C71-AC95-02099734AC90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{563E8E3A-32E3-4C71-AC95-02099734AC90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
